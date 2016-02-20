@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.006142427
+  lightness: 0.2562724
+  brandStrength: 0.5
+  brandColors:
+    - '#0F0E0C'
+    - '#422015'
+    - '#D8C7B3'
+    - '#925D38'
+    - '#BD804A'
+  rhythmicContrast: 0.4020242
+typography_spectrum: 0.2795699
+name: RST
